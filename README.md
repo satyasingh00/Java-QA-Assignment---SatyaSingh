@@ -2,8 +2,8 @@
 ## Project Overview
 -- This project contains two key components:
 
--- 1. QA Automation Testing Task: Automating the search functionality of a website using Selenium and TestNG.
--- 2. Problem Solving Task: Implementing a solution to increment a large integer represented as an array.
+--QA Automation Testing Task: Automating the search functionality of a website using Selenium and TestNG.
+--Problem Solving Task: Implementing a solution to increment a large integer represented as an array.
 ## Table of Contents
 
 ## Project Overview
